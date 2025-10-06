@@ -10,10 +10,10 @@ function App() {
   return (
     <>
       <Hero></Hero>
-      <Menu></Menu>
       <Services></Services>
-      <CallToAction></CallToAction>
+      <Menu></Menu>
       <Testimonials></Testimonials>
+      <CallToAction></CallToAction>
     </>
   )
 }
